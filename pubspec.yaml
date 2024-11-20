@@ -59,6 +59,7 @@ dependencies:
   flutter_svg: ^2.0.10+1
   # For adaptive screens and font size.
   flutter_screenutil: ^5.9.0
+  build_runner: ^2.4.13
 
 
 dev_dependencies:
